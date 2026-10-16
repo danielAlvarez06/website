@@ -1,25 +1,11 @@
-# Folio— Freelance Portfolio Template (HTML · Tailwind · Alpine.js)
-#### Preview
+# Portfolio - Daniel Alvarez Alves
 
- - [Demo](https://themewagon.github.io/folio-tailwind/)
+Site estatico em portugues com foco em ciberseguranca, Python, Linux e redes, adaptado da referencia em video fornecida pelo proprietario.
 
-#### Download
- - [Download from ThemeWagon](https://themewagon.com/themes/folio-tailwind/)
+Execute `python main.py` e acesse http://127.0.0.1:8000. Tambem e possivel abrir `index.html` diretamente. Sem dependencias JavaScript externas; a fonte DM Sans vem do Google Fonts com alternativa local.
 
-## Getting Started
+As paginas compartilham `assets/site.css` e `assets/site.js`. Edite o conteudo em `build_site.py` e execute `python build_site.py` para regenerar os HTMLs. Fotos em `assets/`.
 
-1. Clone Repository
-```
-git clone https://github.com/themewagon/folio-html.git
-```
+Paginas: inicio, projetos, projeto academico, portfolio, notas e artigo. O endereco legado `templates/login.html` encaminha ao portfolio.
 
-## Author 
-```
-Design and code is completely written by Laurent Begey and development team. 
-```
-
-## License
-
- - Design and Code is Copyright &copy; <a href="https://lbegey78.gumroad.com/" target="_blank">Laurent Begey</a>
- - Licensed cover under [MIT]
- - Distributed by <a href="https://themewagon.com" target="_blank">ThemeWagon</a>
+O projeto de mercado esta em desenvolvimento e sua ilustracao e conceitual. Nao sao apresentadas metricas, certificacoes ou experiencias profissionais nao fornecidas. As palavras-chave aparecem no conteudo visivel.
